@@ -1,4 +1,4 @@
-# Bamboo-fly-ash-concrete-tiles
+# Bamboo-Fly-Ash-Concrete-Tiles
 
 This repository contains my undergraduate research on sustainable concrete using bamboo fibers and fly ash. The purpose of the study was to develop an eco-friendly concrete mix that could reduce cement use while improving crack resistance.
 
