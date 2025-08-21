@@ -1,33 +1,15 @@
-# Bamboo–Fly Ash Concrete Tiles
+# Bamboo-fly-ash-concrete-tiles
 
-This repository presents my research and project work on **sustainable blended concrete using bamboo and fly ash**. The project explored innovative construction materials to improve crack resistance, durability, and sustainability in pavement applications.
+This repository contains my undergraduate research on sustainable concrete using bamboo fibers and fly ash. The purpose of the study was to develop an eco-friendly concrete mix that could reduce cement use while improving crack resistance.
 
-## Overview
-As part of my undergraduate research, I investigated a concrete mix with partial replacement using bamboo and fly ash. The study focused on creating eco-friendly alternatives to conventional mixes while maintaining cost efficiency and performance.  
+The work included mix design, testing, and documentation. Results showed about 28% higher crack resistance compared to normal concrete, which makes the mix suitable for small-scale pavement applications.
 
-Key outcomes included enhanced crack resistance and improved sustainability, making this solution promising for pavement and infrastructure use.
+Contents:
+- reports (thesis draft, research article, documentation)
+- data (test results, mix proportions in Excel/CSV)
+- drawings (AutoCAD sketches, diagrams)
+- photos (lab work, sample preparation, testing)
 
-## Contents
-- /reports/ – Research paper, thesis, and technical documentation  
-- /data/ – Test results, mix proportions, and lab trial data (CSV/Excel)  
-- /drawings/ – Detail sketches and construction diagrams  
-- /photos/ – Lab photos of mix design and testing setups  
+Tools used: AutoCAD, MS Excel, ASTM C78 testing.
 
-## Tools & Standards
-- ASTM C78 crack resistance testing  
-- MS Excel – Data recording and analysis  
-- AutoCAD – Sketches and detailing  
-
-## Highlights
-- Developed bamboo–fly ash concrete with **28% higher crack resistance** compared to control mix  
-- Designed eco-friendly, practical mix suitable for small-scale pavements  
-- Published as **first-author research article** in the *Fusion Journal of Engineering and Science*  
-
-## Author
-**Dawood Tahir Mayo**  
-PEC Registered Civil Engineer  
-📧 Email: dawoodtahirf21@nutech.edu.pk  
-📞 Phone: +92 305 4623052  
-🌐 Portfolio: [https://dawood-portfolio01.netlify.app/](https://dawood-portfolio01.netlify.app/)  
-🔗 LinkedIn: [http://www.linkedin.com/in/Dawood-Tahir-Mayo](http://www.linkedin.com/in/Dawood-Tahir-Mayo)  
-💻 GitHub: [https://github.com/Dawood-Tahir-Mayo](https://github.com/Dawood-Tahir-Mayo)
+This work has been submitted as a first-author article to the Fusion Journal of Engineering and Science (under review).
